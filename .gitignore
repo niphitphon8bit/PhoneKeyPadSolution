@@ -1,0 +1,10 @@
+# Ignore build and system files
+bin/
+obj/
+*.log
+*.db
+*.trace
+.DS_Store
+.gitconfig
+.boto
+.config/
