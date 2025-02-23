@@ -15,6 +15,13 @@
     <GenerateAssemblyProductAttribute>false</GenerateAssemblyProductAttribute>
     <GenerateAssemblyTitleAttribute>false</GenerateAssemblyTitleAttribute>
     <GenerateAssemblyVersionAttribute>false</GenerateAssemblyVersionAttribute>
+
+    <PackageId>PhoneKeyPad</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Niphitphon T.</Authors>
+    <Description>A C# library that simulates text input on old mobile phone keypads.</Description>
+    <RepositoryUrl>https://github.com/niphitphon8bit/PhoneKeyPadSolution</RepositoryUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
 </Project>
