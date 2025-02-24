@@ -78,7 +78,7 @@ public class KeyPad
     }
 }
 ```
-For the full logic code check on this file [Link](PhoneKeyPad/PhoneKeyPad.cs)
+For the full logic code check on this file [Link](https://github.com/niphitphon8bit/PhoneKeyPadSolution/blob/7350ed6ca5ff2dbaa717a49c86cc14b43a2a59cd/PhoneKeyPad/PhoneKeyPad.cs)
 
 ## 5. Future Improvements
  - Available to put numbers mixed with the text.
